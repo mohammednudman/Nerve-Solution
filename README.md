@@ -1,7 +1,8 @@
 # Nerve-Solution
-## Problem Statement : To implement the TCP Client Server using Socket Programming
-                       ## - Ensure Encryption and Decryption of the messages transferred between client and server
-                       ## - Ensure server should be able to handle multiple client connections without breaking any current connection
+## Problem Statement : 
+- To implement the TCP Client Server using Socket Programming
+- Ensure Encryption and Decryption of the messages transferred between client and server
+- Ensure server should be able to handle multiple client connections without breaking any current connection
                        
 ## Solution : 
 - Developed the TCP Server and Client using `net` library in javascript.
